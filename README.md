@@ -31,6 +31,8 @@
 
 
 
+<img src="https://skillicons.dev/icons?i=swift,kotlin,python,tensorflow,fastapi,postgres,js,html,css&perline=5" alt="Skills">
+
 ## About
 
 I like models that end up in your pocket. I work on machine learning, deep learning and LLMs. I build native iOS apps in Swift, native Android apps in Kotlin with Jetpack Compose, and small backends in Python with FastAPI. I care most about the part after training: making a model fast, simple and useful on a phone.
