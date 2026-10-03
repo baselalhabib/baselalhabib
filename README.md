@@ -4,37 +4,30 @@
 
 
 
-![Swift](https://img.shields.io/badge/Swift-F05138?logo=swift&logoColor=white)
 
 
 
 
-![Kotlin](https://img.shields.io/badge/Kotlin-7F52FF?logo=kotlin&logoColor=white)
 
 
 
 
-![Python](https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white)
 
 
 
 
-![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?logo=tensorflow&logoColor=white)
 
 
 
 
-![FastAPI](https://img.shields.io/badge/FastAPI-009688?logo=fastapi&logoColor=white)
 
 
 
 
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?logo=postgresql&logoColor=white)
 
 
 
 
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript&logoColor=black)
 
 
 
