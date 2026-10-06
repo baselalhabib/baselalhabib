@@ -55,3 +55,4 @@ I like models that end up in your pocket. I work on machine learning, deep learn
 - Portfolio: [baselalhabib.github.io](https://baselalhabib.github.io)
 - Email: [baselalhabib98dev@gmail.com](mailto:baselalhabib98dev@gmail.com)
 - LinkedIn: [basel-alhabib](https://www.linkedin.com/in/basel-alhabib-375912380)
+- Certificate: [Machine Learning, Coursera](https://www.coursera.org/account/accomplishments/verify/K6D3AYAGRMZ4)
