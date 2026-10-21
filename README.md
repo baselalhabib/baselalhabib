@@ -48,7 +48,6 @@ I like models that end up in your pocket. I work on machine learning, deep learn
 
 ## Featured work
 
-- **Plants App**: an iOS app that identifies plants from a photo using ML-based image recognition.
 
 ## Find me
 
